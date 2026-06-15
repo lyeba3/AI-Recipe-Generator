@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Chicken Noodles",
+    "ingredients": [
+      "chicken",
+      "noodles",
+      "salt",
+      "pepper"
+    ],
+    "instructions": "Cook noodles. Fry chicken. Mix together with seasoning."
+  },
+
+  {
+    "title": "Beef Rice Bowl",
+    "ingredients": [
+      "beef",
+      "rice",
+      "soy sauce",
+      "garlic"
+    ],
+    "instructions": "Cook rice and beef separately. Combine with soy sauce."
+  },
+
+  {
+    "title": "Vegetable Salad",
+    "ingredients": [
+      "lettuce",
+      "tomato",
+      "cucumber",
+      "vinegar"
+    ],
+    "instructions": "Mix all vegetables and add vinegar dressing."
+  },
+
+  {
+    "title": "Protein Omelette",
+    "ingredients": [
+      "egg",
+      "cheese",
+      "milk"
+    ],
+    "instructions": "Beat eggs and cook with cheese."
+  }
+]
